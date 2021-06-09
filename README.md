@@ -1,0 +1,1 @@
+This is a project that teaches us to create bash scripts and run them using chmod command.
