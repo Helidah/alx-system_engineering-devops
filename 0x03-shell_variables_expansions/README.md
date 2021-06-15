@@ -1,0 +1,1 @@
+This project teaches us on Shell, init files, variables and expansions.
