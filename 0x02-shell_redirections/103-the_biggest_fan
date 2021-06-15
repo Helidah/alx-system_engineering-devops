@@ -1,2 +1,3 @@
 #!/bin/bash
-cut -f 3 .tsv | uniq -c | sort -n
+cat .tsv | cut -f 3 | sort -n | uniq -c
+
