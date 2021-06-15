@@ -1,3 +1,2 @@
 #!/bin/bash
-cat .tsv | cut -f 3 | sort -n | uniq -c
-
+awk '{ print $1}' access.log.2020-06-14 | sort | uniq -c | sort
