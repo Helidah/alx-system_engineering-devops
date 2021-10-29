@@ -21,9 +21,9 @@ int infinite_while(void)
 int main(void)
 {
 	pid_t zombiePID;
-	unsigned int y;
+	unsigned int i;
 
-	for (y = 0; y < 5; i++)
+	for (i = 0; i < 5; i++)
 	{
 		zombiePID = fork();
 		if (zombiePID == 0)
