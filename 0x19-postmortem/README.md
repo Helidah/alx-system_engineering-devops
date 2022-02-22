@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://www.maketecheasier.com/assets/uploads/2019/04/500-internal-server-error-youtube.jpg" width=75% height=75%/>
+<img src="https://github.com/Helidah/alx-system_engineering-devops/blob/master/0x19-postmortem/500server.jpg" width=75% height=75%/>
 </p>
 
 ## Service unavailability
-### Incident report for [Site Outage] https://www.maketecheasier.com/assets/uploads/2019/04/500-internal-server-error-youtube.jpg)
+### Incident report for [Site Outage] https://github.com/Helidah/alx-system_engineering-devops/blob/master/0x19-postmortem/500server.jpg)
 
 #### Issue Summary
 On February 22nd, 2022 from 12:02 AM to 5:47 AM EAT, the company's website was down for twenty minutes. 100% of users experienced a 500 internal server error caused by a misspelled filename in a configuration file.
